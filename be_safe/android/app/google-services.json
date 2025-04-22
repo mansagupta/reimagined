@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675751401087",
+    "project_id": "safetyalert-2afd6",
+    "storage_bucket": "safetyalert-2afd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675751401087:android:850ffb8efea5c40b5a914a",
+        "android_client_info": {
+          "package_name": "com.example.be_safe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4dgcsJh67Cu5NxXiAgIYRSu42vBJuRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
